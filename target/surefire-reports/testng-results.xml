@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-14T06:06:04 IST" name="Suite" finished-at="2024-06-14T06:06:53 IST" duration-ms="48259">
+    <groups>
+    </groups>
+    <test started-at="2024-06-14T06:06:04 IST" name="Test" finished-at="2024-06-14T06:06:53 IST" duration-ms="48259">
+      <class name="scenarios.MouseHover">
+        <test-method signature="dragAndDrop()[pri:0, instance:scenarios.MouseHover@4b5a5ed1]" started-at="2024-06-14T06:06:05 IST" name="dragAndDrop" finished-at="2024-06-14T06:06:16 IST" duration-ms="11056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDrop -->
+      </class> <!-- scenarios.MouseHover -->
+      <class name="scenarios.RadBtnsAndChkBox">
+        <test-method signature="radChkBox()[pri:0, instance:scenarios.RadBtnsAndChkBox@5cee5251]" started-at="2024-06-14T06:06:24 IST" name="radChkBox" finished-at="2024-06-14T06:06:42 IST" duration-ms="17482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radChkBox -->
+      </class> <!-- scenarios.RadBtnsAndChkBox -->
+      <class name="scenarios.SwitchingWindows">
+        <test-method signature="switchWin()[pri:0, instance:scenarios.SwitchingWindows@7adda9cc]" started-at="2024-06-14T06:06:16 IST" name="switchWin" finished-at="2024-06-14T06:06:24 IST" duration-ms="8849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchWin -->
+      </class> <!-- scenarios.SwitchingWindows -->
+      <class name="scenarios.DynDataHandling">
+        <test-method signature="DynDataCaptcha()[pri:0, instance:scenarios.DynDataHandling@433d61fb]" started-at="2024-06-14T06:06:42 IST" name="DynDataCaptcha" finished-at="2024-06-14T06:06:53 IST" duration-ms="10801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DynDataCaptcha -->
+      </class> <!-- scenarios.DynDataHandling -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
